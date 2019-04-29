@@ -1,6 +1,6 @@
 package Inheritance;
 
-public class Human {
+public class Grandfather {
 
     public static void main(String[] args) {
 
@@ -8,9 +8,18 @@ public class Human {
 
     }
 
-    public void legs() {
+    public void city() {
 
-        System.out.println("");
+        System.out.println("Volos");
     }
+
+    public void country() {
+
+        System.out.println("Greece");
+    }
+
+
+
+
 
 }
