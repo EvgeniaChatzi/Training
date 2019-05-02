@@ -77,11 +77,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/CoreJava/DateDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="75" lean-forward="true" selection-start-line="18" selection-start-column="75" selection-end-line="18" selection-end-column="75" />
+            <state relative-caret-position="375">
+              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/CoreJava/CalendarDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -127,6 +139,7 @@
         <option value="$PROJECT_DIR$/src/CoreJava/MultidimensionalArrays.java" />
         <option value="$PROJECT_DIR$/src/CoreJava/ReverseDemo.java" />
         <option value="$PROJECT_DIR$/src/CoreJava/DateDemo.java" />
+        <option value="$PROJECT_DIR$/src/CoreJava/CalendarDemo.java" />
       </list>
     </option>
   </component>
@@ -173,7 +186,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556796884392" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556798578886" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -187,9 +200,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DateDemo">
+  <component name="RunManager" selected="Application.CalendarDemo">
     <configuration name="ArraysDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CoreJava.ArraysDemo" />
+      <module name="Training" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CoreJava.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalendarDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CoreJava.CalendarDemo" />
       <module name="Training" />
       <extension name="coverage">
         <pattern>
@@ -207,19 +233,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="CoreJava.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Developing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InterfaceConcept.Developing" />
-      <module name="Training" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="InterfaceConcept.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -254,19 +267,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Developing" />
       <item itemvalue="Application.ArraysDemo" />
       <item itemvalue="Application.MultidimensionalArrays" />
       <item itemvalue="Application.ReverseDemo" />
       <item itemvalue="Application.DateDemo" />
+      <item itemvalue="Application.CalendarDemo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CalendarDemo" />
         <item itemvalue="Application.DateDemo" />
         <item itemvalue="Application.ReverseDemo" />
         <item itemvalue="Application.MultidimensionalArrays" />
         <item itemvalue="Application.ArraysDemo" />
-        <item itemvalue="Application.Developing" />
       </list>
     </recent_temporary>
   </component>
@@ -414,8 +427,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/CoreJava/DateDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="75" lean-forward="true" selection-start-line="18" selection-start-column="75" selection-end-line="18" selection-end-column="75" />
+        <state relative-caret-position="375">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CoreJava/CalendarDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
