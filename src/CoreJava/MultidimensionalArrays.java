@@ -19,7 +19,7 @@ public class MultidimensionalArrays {
 
                 if (min > b[i][j]) {
                    min = b[i][j];
-                   mincolumn = j;
+//                   mincolumn = j;
 
 
 
@@ -35,7 +35,7 @@ public class MultidimensionalArrays {
 
 
         System.out.println("max number is " + min);
-        System.out.println("max column number is " + mincolumn);
+
     }
 }
 
