@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="49bc4fa4-63c0-4665-9c58-a1e9c7a27482" name="Default Changelist" comment="" />
+    <list default="true" id="49bc4fa4-63c0-4665-9c58-a1e9c7a27482" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/CoreJava/ChildDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava/ChildDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CoreJava/ParentDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava/ParentDemo.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,8 +29,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/CoreJava/ChildDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="27" lean-forward="true" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+            <state relative-caret-position="375">
+              <caret line="25" column="27" lean-forward="true" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -35,8 +38,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/CoreJava/ParentDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+            <state relative-caret-position="360">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
             </state>
           </provider>
         </entry>
@@ -72,13 +75,13 @@
         <option value="$PROJECT_DIR$/src/CoreJava/DateDemo.java" />
         <option value="$PROJECT_DIR$/src/CoreJava/CalendarDemo.java" />
         <option value="$PROJECT_DIR$/src/CoreJava/Constructors.java" />
-        <option value="$PROJECT_DIR$/src/CoreJava/ChildDemo.java" />
         <option value="$PROJECT_DIR$/src/CoreJava/ParentDemo.java" />
+        <option value="$PROJECT_DIR$/src/CoreJava/ChildDemo.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="787" />
+    <option name="x" value="588" />
     <option name="y" value="23" />
     <option name="width" value="914" />
     <option name="height" value="982" />
@@ -120,7 +123,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556874224482" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556886670709" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -231,7 +234,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="787" y="23" width="914" height="982" extended-state="0" />
+    <frame x="588" y="23" width="914" height="982" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.34901533" />
@@ -388,15 +391,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/CoreJava/ParentDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+        <state relative-caret-position="360">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/CoreJava/ChildDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="27" lean-forward="true" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+        <state relative-caret-position="375">
+          <caret line="25" column="27" lean-forward="true" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
         </state>
       </provider>
     </entry>
