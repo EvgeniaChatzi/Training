@@ -2,6 +2,13 @@ package CoreJava;
 
 public class ArraysDemo {
 
+    public void abc(){
+
+        System.out.println("hello there");
+
+
+    }
+
     public static void main(String[] args) {
 
 

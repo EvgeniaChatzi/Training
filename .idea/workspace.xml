@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="49bc4fa4-63c0-4665-9c58-a1e9c7a27482" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/CoreJava/ChildDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava/ChildDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CoreJava/ParentDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava/ParentDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CoreJava/ArraysDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava/ArraysDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CoreJava/CalendarDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava/CalendarDemo.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,11 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/CoreJava/CalendarDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="53" lean-forward="true" selection-start-line="15" selection-start-column="53" selection-end-line="15" selection-end-column="53" />
+            <state relative-caret-position="360">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -26,11 +26,38 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/CoreJava/ChildDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="27" lean-forward="true" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
+            <state relative-caret-position="210">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/CoreJava/ThisDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="36" lean-forward="true" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/CoreJava/FinalKeywordDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/CoreJava/ArraysDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -69,19 +96,21 @@
         <option value="$PROJECT_DIR$/src/InterfaceConcept/Interface01.java" />
         <option value="$PROJECT_DIR$/src/InterfaceConcept/BankingClient.java" />
         <option value="$PROJECT_DIR$/src/InterfaceConcept/Developing.java" />
-        <option value="$PROJECT_DIR$/src/CoreJava/ArraysDemo.java" />
         <option value="$PROJECT_DIR$/src/CoreJava/MultidimensionalArrays.java" />
         <option value="$PROJECT_DIR$/src/CoreJava/ReverseDemo.java" />
         <option value="$PROJECT_DIR$/src/CoreJava/DateDemo.java" />
-        <option value="$PROJECT_DIR$/src/CoreJava/CalendarDemo.java" />
         <option value="$PROJECT_DIR$/src/CoreJava/Constructors.java" />
         <option value="$PROJECT_DIR$/src/CoreJava/ParentDemo.java" />
         <option value="$PROJECT_DIR$/src/CoreJava/ChildDemo.java" />
+        <option value="$PROJECT_DIR$/src/CoreJava/ThisDemo.java" />
+        <option value="$PROJECT_DIR$/src/CoreJava/FinalKeywordDemo.java" />
+        <option value="$PROJECT_DIR$/src/CoreJava/CalendarDemo.java" />
+        <option value="$PROJECT_DIR$/src/CoreJava/ArraysDemo.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="588" />
+    <option name="x" value="617" />
     <option name="y" value="23" />
     <option name="width" value="914" />
     <option name="height" value="982" />
@@ -123,7 +152,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556886670709" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556958718705" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -137,7 +166,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ChildDemo">
+  <component name="RunManager" selected="Application.CalendarDemo">
     <configuration name="CalendarDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CoreJava.CalendarDemo" />
       <module name="Training" />
@@ -190,8 +219,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CoreJava.ReverseDemo" />
+    <configuration name="ThisDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CoreJava.ThisDemo" />
       <module name="Training" />
       <extension name="coverage">
         <pattern>
@@ -204,19 +233,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ReverseDemo" />
       <item itemvalue="Application.DateDemo" />
       <item itemvalue="Application.CalendarDemo" />
       <item itemvalue="Application.Constructors" />
       <item itemvalue="Application.ChildDemo" />
+      <item itemvalue="Application.ThisDemo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CalendarDemo" />
+        <item itemvalue="Application.ThisDemo" />
         <item itemvalue="Application.ChildDemo" />
         <item itemvalue="Application.Constructors" />
-        <item itemvalue="Application.CalendarDemo" />
         <item itemvalue="Application.DateDemo" />
-        <item itemvalue="Application.ReverseDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -234,10 +263,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="588" y="23" width="914" height="982" extended-state="0" />
+    <frame x="617" y="23" width="914" height="982" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.34901533" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.34901533" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -247,7 +276,7 @@
       <window_info anchor="bottom" id="Messages" weight="0.32996634" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3227223" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3227223" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39955106" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -338,13 +367,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/CoreJava/ArraysDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="41" lean-forward="true" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/CoreJava/MultidimensionalArrays.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
@@ -372,16 +394,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/CoreJava/CalendarDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="53" lean-forward="true" selection-start-line="15" selection-start-column="53" selection-end-line="15" selection-end-column="53" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/CoreJava/Constructors.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -398,8 +410,39 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/CoreJava/ChildDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="27" lean-forward="true" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CoreJava/ThisDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="36" lean-forward="true" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CoreJava/FinalKeywordDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CoreJava/ArraysDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CoreJava/CalendarDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

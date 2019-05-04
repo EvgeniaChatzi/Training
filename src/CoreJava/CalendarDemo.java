@@ -7,6 +7,10 @@ public class CalendarDemo {
 
     public static void main(String[] args) {
 
+
+        ArraysDemo abcd = new ArraysDemo();
+        abcd.abc();
+
         Calendar cal = Calendar.getInstance();
         SimpleDateFormat format1 = new SimpleDateFormat("yyyy-MM-dd");
         System.out.println(cal.getTime());
