@@ -21,8 +21,7 @@ public class WebdriverDemo {
         driver.navigate().back();
         driver.close();
         driver.quit();
-        driver.navigate();
-
+        System.out.println("hello");
 
 
 
