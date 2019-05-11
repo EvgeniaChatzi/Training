@@ -3,39 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="49bc4fa4-63c0-4665-9c58-a1e9c7a27482" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Training.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Training.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Training/CoreJava/ArraysDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Training/CoreJava/CalendarDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Training/CoreJava/ChildDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Training/CoreJava/Constructors.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Training/CoreJava/DateDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Training/CoreJava/ExceptionDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Training/CoreJava/FinalKeywordDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Training/CoreJava/MultidimensionalArrays.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Training/CoreJava/ParentDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Training/CoreJava/ReverseDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Training/CoreJava/ThisDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Training/Inheritance/Grandfather.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Training/Inheritance/Grandson.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Training/Inheritance/Son.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Training/InterfaceConcept/BankingClient.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Training/InterfaceConcept/Developing.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CoreJava/ArraysDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/CoreJava/ArraysDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CoreJava/CalendarDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/CoreJava/CalendarDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CoreJava/ChildDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/CoreJava/ChildDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CoreJava/Constructors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/CoreJava/Constructors.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CoreJava/DateDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/CoreJava/DateDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CoreJava/ExceptionDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/CoreJava/ExceptionDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CoreJava/FinalKeywordDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/CoreJava/FinalKeywordDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CoreJava/MultidimensionalArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/CoreJava/MultidimensionalArrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CoreJava/ParentDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/CoreJava/ParentDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CoreJava/ReverseDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/CoreJava/ReverseDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CoreJava/ThisDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/CoreJava/ThisDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Inheritance/Grandfather.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Inheritance/Grandfather.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Inheritance/Grandson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Inheritance/Grandson.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Inheritance/Son.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Inheritance/Son.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/InterfaceConcept/BankingClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/InterfaceConcept/BankingClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/InterfaceConcept/Developing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/InterfaceConcept/Developing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Training/Selenium/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Selenium/WebdriverDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Selenium/WebdriverDemo.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -49,7 +18,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/java/CoreJava/CalendarDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
+            <state relative-caret-position="345">
               <caret line="24" selection-start-line="24" selection-end-line="24" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -61,17 +30,29 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/java/CoreJava/ExceptionDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
+            <state relative-caret-position="540">
               <caret line="36" selection-start-line="36" selection-end-line="36" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Selenium/Demo.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Selenium/WebdriverDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+            <state relative-caret-position="165">
+              <caret line="13" selection-start-line="13" selection-end-line="17" selection-end-column="48" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Selenium/Dynamic_Static_Dropdowns.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="504">
+              <caret line="39" column="37" selection-start-line="39" selection-start-column="37" selection-end-line="39" selection-end-column="37" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -136,6 +117,11 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -162,11 +148,14 @@
         <option value="$PROJECT_DIR$/src/CoreJava/ExceptionDemo.java" />
         <option value="$PROJECT_DIR$/src/java/CoreJava/ExceptionDemo.java" />
         <option value="$PROJECT_DIR$/src/Selenium/Demo.java" />
+        <option value="$PROJECT_DIR$/src/Selenium/WebdriverDemo.java" />
+        <option value="$PROJECT_DIR$/src/Selenium/Dropdowns.java" />
+        <option value="$PROJECT_DIR$/src/Selenium/Dynamic_Static_Dropdowns.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="273" />
+    <option name="x" value="546" />
     <option name="y" value="68" />
     <option name="width" value="1124" />
     <option name="height" value="982" />
@@ -177,8 +166,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -191,14 +178,22 @@
               <item name="Training" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Training" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Training" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Selenium" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557049408536" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557508768462" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.22643678" />
@@ -215,7 +210,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Demo">
+  <component name="RunManager" selected="Application.Dynamic_Static_Dropdowns">
     <configuration name="CalendarDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="java.CoreJava.CalendarDemo" />
       <module name="Training" />
@@ -229,21 +224,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ChildDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java.CoreJava.ChildDemo" />
-      <module name="Training" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="java.CoreJava.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Selenium.Demo" />
+    <configuration name="Dynamic_Static_Dropdowns" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Selenium.Dynamic_Static_Dropdowns" />
       <module name="Training" />
       <extension name="coverage">
         <pattern>
@@ -281,20 +263,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="WebdriverDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Selenium.WebdriverDemo" />
+      <module name="Training" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Selenium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.CalendarDemo" />
-      <item itemvalue="Application.ChildDemo" />
       <item itemvalue="Application.ThisDemo" />
       <item itemvalue="Application.ExceptionDemo" />
-      <item itemvalue="Application.Demo" />
+      <item itemvalue="Application.Dynamic_Static_Dropdowns" />
+      <item itemvalue="Application.WebdriverDemo" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Demo" />
+        <item itemvalue="Application.Dynamic_Static_Dropdowns" />
+        <item itemvalue="Application.WebdriverDemo" />
         <item itemvalue="Application.ExceptionDemo" />
-        <item itemvalue="Application.CalendarDemo" />
         <item itemvalue="Application.ThisDemo" />
-        <item itemvalue="Application.ChildDemo" />
+        <item itemvalue="Application.CalendarDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -312,20 +307,18 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="273" y="68" width="1124" height="982" extended-state="0" />
-    <editor active="true" />
+    <frame x="546" y="68" width="1124" height="982" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28380784" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28380784" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.32996634" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3227223" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3227223" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39955106" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -333,6 +326,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" weight="0.32996634" />
       <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32996634" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -388,13 +382,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/InterfaceConcept/Interfaces01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/InterfaceConcept/Interfaces01.java" />
     <entry file="file://$PROJECT_DIR$/src/java/Inheritance/Grandson.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -420,9 +408,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
           <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -437,9 +422,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
           <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -450,10 +432,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/CoreJava/ParentDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/java/CoreJava/CalendarDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
+        <state relative-caret-position="345">
           <caret line="24" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/CoreJava/ExceptionDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Selenium/WebdriverDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="13" selection-start-line="13" selection-end-line="17" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -485,27 +487,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/CoreJava/CalendarDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/java/CoreJava/ParentDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="24" selection-start-line="24" selection-end-line="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/CoreJava/ExceptionDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/Selenium/Dynamic_Static_Dropdowns.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="36" selection-start-line="36" selection-end-line="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Selenium/Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        <state relative-caret-position="504">
+          <caret line="39" column="37" selection-start-line="39" selection-start-column="37" selection-end-line="39" selection-end-column="37" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
