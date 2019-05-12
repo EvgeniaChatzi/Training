@@ -33,6 +33,26 @@ public class Radiobuttons {
         Thread.sleep(1000);
 
 
+//will select a specific attribute&value
+        for (int i =0; i<size; i++) {
+
+            String outcome = driver.findElements(By.xpath("//input[@type='radio']")).get(i).getAttribute("id");
+
+            if (outcome.equals("benzradio")) {
+
+                driver.findElements(By.xpath("//input[@type='radio']")).get(i).click();
+
+
+
+            }
+
+
+            Thread.sleep(1000);
+
+        }
+        Thread.sleep(1000);
+
+
 
         driver.close();
         driver.quit();
