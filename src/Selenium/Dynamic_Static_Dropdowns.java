@@ -47,8 +47,7 @@ public class Dynamic_Static_Dropdowns {
         System.out.println(driver.findElement(By.id("ctl00_mainContent_ddl_destinationStation1_CTXT")).getText());
         Thread.sleep(1000);
 
-//       (//*[@value='MAA'])[4]
-//        (//*[@value='BLR'])[2]
+
 
 
 
